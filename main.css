@@ -59,7 +59,7 @@ a {
 }
 
 #happy-fun-ball:hover p {
-  color: rgba( 0, 0, 0, 0);
+  color: green;
 }
 #special-container {
   display:inline-block;
